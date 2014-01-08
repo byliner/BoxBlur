@@ -9,10 +9,8 @@ Pod::Spec.new do |s|
   s.version      = "0.1.0"
   s.summary      = "This helps blur background images using Accelerate"
   s.description  = <<-DESC
-                    An optional longer description of boxBlur
-
-                    * Markdown format.
-                    * Don't worry about the indent, we strip it!
+                    This is a pod for blurring background images using accelerate
+                    Enjoy a simple interface for blurring images!
                    DESC
   s.homepage     = "http://EXAMPLE/NAME"
   s.screenshots  = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
