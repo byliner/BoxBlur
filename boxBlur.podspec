@@ -7,7 +7,7 @@
 Pod::Spec.new do |s|
   s.name         = "boxBlur"
   s.version      = "0.1.0"
-  s.summary      = "A short description of boxBlur."
+  s.summary      = "This helps blur background images using Accelerate"
   s.description  = <<-DESC
                     An optional longer description of boxBlur
 

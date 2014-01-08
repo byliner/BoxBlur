@@ -1,7 +1,7 @@
+ platform :ios
+#platform :osx
+
 pod "boxBlur", :path => "../boxBlur.podspec"
 
-target "Demo" do
-end
 
-target "DemoTests" do
-end
+
