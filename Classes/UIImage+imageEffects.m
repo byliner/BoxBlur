@@ -3,7 +3,7 @@
 //  Byliner
 //
 //  Created by John Figueiredo on 1/7/14.
-//  Copyright (c) 2013 Byliner, Inc. All rights reserved.
+//  Copyright (c) 2014 Byliner, Inc. All rights reserved.
 //
 
 #import <float.h>
