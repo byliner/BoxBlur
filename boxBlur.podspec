@@ -6,17 +6,17 @@
 #
 Pod::Spec.new do |s|
   s.name         = "boxBlur"
-  s.version      = "0.1.0"
+  s.version      = "0.0.1"
   s.summary      = "This helps blur background images using Accelerate"
   s.description  = <<-DESC
                     This is a pod for blurring background images using accelerate
                     Enjoy a simple interface for blurring images!
                    DESC
-  s.homepage     = "http://EXAMPLE/NAME"
+  s.homepage     = "https://github.com/byliner/BoxBlur"
   s.screenshots  = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license      = 'MIT'
   s.author       = { "John Figueiredo" => "john@johnfigueiredo.com" }
-  s.source       = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/byliner/BoxBlur", :tag => s.version.to_s }
 
   # s.platform     = :ios, '5.0'
   # s.ios.deployment_target = '5.0'
